@@ -1,0 +1,53 @@
+{
+  "name": "queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.6.0",
+    "anime-actions": "^1.0.6",
+    "ascii-table": "^0.0.9",
+    "canvacord": "^5.4.10",
+    "canvas": "^2.11.2",
+    "chatgpt": "^5.2.5",
+    "cheerio": "^1.0.0-rc.12",
+    "dayjs": "^1.11.9",
+    "discord-gamecord": "^4.4.0",
+    "discord-html-transcripts": "^3.1.5",
+    "discord-together": "^1.3.31",
+    "discord.js": "^14.13.0",
+    "figlet": "^1.6.0",
+    "fs": "^0.0.1-security",
+    "generate-password": "^1.7.1",
+    "giphy-api": "^2.0.2",
+    "glob": "^8.0.3",
+    "iso-639-1": "^2.1.15",
+    "libsodium-wrappers": "^0.7.11",
+    "mathjs": "^11.9.1",
+    "mongoose": "^7.4.2",
+    "node-fetch": "^3.3.2",
+    "node-os-utils": "^1.3.7",
+    "openai": "^3.3.0",
+    "play-audio": "^0.5.2",
+    "play-dl": "^1.9.6",
+    "pop": "^0.0.33",
+    "popcat-wrapper": "^1.5.5",
+    "quick.eco": "^6.0.0",
+    "randomstring": "^1.3.0",
+    "request": "^2.88.2",
+    "translate-google": "^1.5.0",
+    "tweetnacl": "^1.0.3",
+    "weather-js": "^2.0.0",
+    "wikijs": "^6.4.1",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
